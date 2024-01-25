@@ -1,6 +1,4 @@
 import tkinter as tk
-from tabulate import tabulate
-import tkinter as tk
 from tkinter import filedialog
 import pandas as pd
 import numpy as np
